@@ -3,3 +3,4 @@ dist: xenial
 script:
 - sudo ip a
 - sudo cat /etc/docker/daemon.json
+- uname -a
